@@ -1,0 +1,31 @@
+* {
+  color: #0E0C0F;
+}
+
+a {
+  color: #0E0C0F;
+}
+a:hover {
+  color: #FDDF01;
+}
+a:visited {
+  color: #4A4652;
+}
+
+.btn {
+  background-color: #FDDF01;
+  border-color: #FDDF01;
+  color: #0E0C0F;
+  font-weight: bold;
+  font-size: 1.5rem;
+  margin-top: 1rem;
+}
+.btn:hover {
+  background-color: #4A4652;
+  color: white;
+}
+
+#header h2 {
+  font-size: 4rem;
+  margin-bottom: 1.5rem;
+}

@@ -1,0 +1,44 @@
+//Variables
+
+$color-yellow: #FDDF01;
+$color-darkgray: #4A4652;
+$color-lightgray: #A9ABB1;
+$color-black: #0E0C0F;
+
+
+* {
+  color: $color-black;
+}
+
+a {
+  color: $color-black;
+
+  &:hover {
+    color: $color-yellow;
+  }
+
+  &:visited {
+    color: $color-darkgray;
+  }
+}
+
+.btn {
+  background-color: $color-yellow;
+  border-color: $color-yellow;
+  color: $color-black;
+  font-weight: bold;
+  font-size: 1.5rem;
+  margin-top: 1rem;
+
+  &:hover {
+    background-color: $color-darkgray;
+    color: white;
+  }
+}
+
+#header {
+  h2 {
+    font-size: 4rem;
+    margin-bottom: 1.5rem;
+  }
+}

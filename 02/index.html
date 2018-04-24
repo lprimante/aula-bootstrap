@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Bootstrap Class 2</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="./style/style.css" />
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js" integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm" crossorigin="anonymous"></script>
+</head>
+<body>
+  <div class="container-fluid" id="nav">
+    <div class="row p-2">
+      <div class="col-12 col-lg-4">
+        <h1>Holiday Bookings</h1>
+      </div>
+      <div class="col-12 col-lg-8">
+        <ul class="nav justify-content-end" id="menu">
+          <li class="nav-item">
+            <a class="nav-link" href="#">About</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Cities</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Hotels</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Top Destinations</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Contact</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="container-fluid" id="header">
+    <div class="row">
+      <div class="col-12 col-md-7">
+        <div class="carousel slide" id="carousel-slide" data-ride="carousel">
+            <div class="carousel-inner">
+              <div class="carousel-item active">
+                <img class="d-block w-100" src="./img/01.jpeg" alt="First slide" height="480px">
+                <div class="carousel-caption">
+                  <h3>Find your next travel</h3>
+                </div>
+              </div>
+              <div class="carousel-item">
+                <img class="d-block w-100" src="./img/02.jpeg" alt="Second slide" height="480px">
+                <div class="carousel-caption">
+                    <h3>Book now</h3>
+                  </div>
+              </div>
+              <div class="carousel-item">
+                <img class="d-block w-100" src="./img/03.jpeg" alt="Third slide" height="480px">
+                <div class="carousel-caption">
+                    <h3>Top hotels</h3>
+                  </div>
+              </div>
+            </div>
+            <ul class="carousel-indicators">
+              <li data-target="#carousel-slide" data-slide-to="0" class="active"></li>
+              <li data-target="#carousel-slide" data-slide-to="1"></li>
+              <li data-target="#carousel-slide" data-slide-to="2"></li>
+            </ul>
+            <a class="carousel-control-prev" href="#carousel-slide" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            </a>  
+            <a class="carousel-control-next" href="#carousel-slide" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            </a>
+        </div>
+      </div>
+      <div class="col-md-5 align-self-center mb-4">
+        <h2>Book your perfect holiday</h2>
+        <form>
+          <div class="form-group">
+            <label for="inputDestination">Choose a destination:</label>
+            <select id="inputDestination" class="form-control">
+                <option selected>Choose...</option>
+                <option>...</option>
+            </select>
+          </div>
+          <div class="form-row">
+            <div class="form-group col-md-6 col-12">
+              <label for="inputLeaving">Leaving:</label>
+              <input type="date" class="form-control" id="inputLeaving">
+            </div>
+            <div class="form-group col-md-6 col-12">
+              <label for="inputArriving">Arriving:</label>
+              <input type="date" class="form-control" id="inputArriving">
+            </div>
+          </div>
+          <button type="submit" class="btn btn-primary w-100 py-2">Search for hotels and flights</button>
+        </form>
+      </div>
+    </div>
+  </div>
+  <div class="container-fluid" id="section-1">
+    <div class="container">
+      <div class="row">
+        <div class="col-12 col-md-4 my-5">
+          <div class="second-title">
+            <h2>Perfect Destinations</h2>
+          </div>  
+          <p class="text-justify">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto saepe vitae dolorum odio inventore nemo sunt, pariatur voluptas architecto placeat odit ea ducimus porro ipsum aut! Ipsum tempora vero nobis.</p>
+        </div>
+        <div class="col-12 col-md-8 my-5">
+          <div class="row">
+            <img src="./img/03.jpeg" alt="Tourist destinations" class="img-fluid mx-2" width="45%">
+            <img src="./img/04.jpeg" alt="Tourist destinations" class="img-fluid mx-2" width="45%">
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

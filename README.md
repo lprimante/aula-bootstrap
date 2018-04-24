@@ -6,7 +6,8 @@
 
 ### Aula 01 
 
-Nesta primeira aula apredemos e desenvolvemos um site básico com os seguintes conceitos:
+Projeto prático com formulário com base no seguinte link: https://getbootstrap.com/docs/4.1/examples/checkout/
+Nesta primeira aula aprendemos e desenvolvemos um site básico com os seguintes conceitos:
 
 - Grid System 
 - Jumbotron
@@ -16,12 +17,21 @@ Nesta primeira aula apredemos e desenvolvemos um site básico com os seguintes c
 - Cards
 - Forms
 
-Projeto prático com formulário com base no seguinte link: https://getbootstrap.com/docs/4.1/examples/checkout/
-
 ---
 
 ### Aula 02
 
+Nesta segunda aula desenvolvi um site com base no modelo: https://dribbble.com/shots/4412641-Daily-Ui3-Landing-Page/attachments/1003085
+
+Utilizando os novos conceitos aprendidos em aula:
+
+- Nav
+- Images
+- Carousel (indicator, caption and control)
+- Margin 
+- Padding
+- Width
+- Height
 
 ---
 
