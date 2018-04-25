@@ -37,6 +37,8 @@ Utilizando os novos conceitos aprendidos em aula:
 
 ### Aula 03
 
+![Layout da aula 03](./img/layout_aula_03.png)
+
 ---
 
 ### Aula 04
