@@ -37,7 +37,7 @@ Utilizando os novos conceitos aprendidos em aula:
 
 ### Aula 03
 
-![Layout da aula 03](./img/layout_aula_03.png)
+![Layout da aula 03](https://github.com/lprimante/aula-bootstrap/blob/master/03/img/layout_aula_03.png)
 
 ---
 
