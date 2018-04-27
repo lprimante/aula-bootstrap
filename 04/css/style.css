@@ -1,0 +1,17 @@
+
+#text-overlay {
+display: flex;
+flex-direction: column;
+justify-content: flex-end;
+align-items: flex-start;
+}
+
+#text-overlay .display-4 {
+    font-size: 5rem;
+}
+
+#text-overlay .lead {
+    font-size: 2rem;
+}
+
+
