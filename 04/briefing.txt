@@ -1,0 +1,84 @@
+Navbar (https://getbootstrap.com/docs/4.0/components/navbar/)
+[seu nome na navbar e link para seu email]
+
+Header Exemplo header carousel sem carousel (https://getbootstrap.com/docs/4.1/examples/carousel/)
+Baixar 
+Imagem de header
+[SUGESTÃO: Tirar uma foto com suas manas de aula e mandar pra Ralfa botar no formato 1200x500 ou procurar uma foto na internet ou usar o modelo]
+
+[botão com link para seu email]
+
+TEXTO
+
+Eu sou Front-end Dev
+e Mulher em tech.
+
+Meu nome é [seu nome] e este é meu portfolio.
+
+Entrar em contato
+
+Projetos (http://getbootstrap.com/docs/4.1/examples/carousel/)
+Conheça alguns dos projetos em que já participei como desenvolvedora de linguagens voltadas para front-end
+
+Travel Gruppe
+
+Site modelo proposto em aula do {reprograma} para praticar as habilidades em HTML e CSS.
+
+Ver no github
+[link para seu repositório]
+
+
+M de Maravilhosa
+
+Quantas mulheres você conhece que geraram grande impacto em suas áreas? O site visa reconhecer 30 mulheres brasileiras que merecem destaque por suas realizações e obras. Site desenvolvido com HTML e CSS.
+
+Ver no github
+[link para seu repositório]
+
+
+Quiz Mansplaining
+
+O objetivo do jogo é identificar, a partir de tweets, quando homens explicam situações óbvias para mulheres. Desenvolvido com HTML, CSS e JavaScript.
+
+Ver no github
+[link para seu repositório]
+
+Skills (https://getbootstrap.com/docs/4.1/components/card/)
+
+Algumas das linguagens que já usei em projetos (dentre muitas outras que ainda vou aprender)
+[escolhas as skills que desejar]
+[encontre mais opções de icone em https://material.io/icons/]
+
+HTML/CSS
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+SASS
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+BOOTSTRAP
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+JAVASCRIPT
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+
+Recomendações (https://getbootstrap.com/docs/4.0/components/carousel/)
+Palavras de colegas com quem já convivi e trabalhei
+
+[peça três recomendações para suas colegas]
+[complemente com a foto de perfil e linkedin delas]
+
+Contato 
+Card com foto embaixo (https://getbootstrap.com/docs/4.1/components/card/#image-caps)
+Card lista de contato (https://getbootstrap.com/docs/4.1/examples/checkout/)
+
+Offline
+[sua foto]
+
+Online
+[suas redes sociais]
+Github
+Linkedin
+Facebook
+Twitter
+Instagram

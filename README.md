@@ -47,9 +47,17 @@ Para colocar em prática todos os conceitos aprendidos nas aulas anteriores.
 
 ### Aula 04
 
+Nesta quarta aula desenvolvemos um prótipo de portfólio para nós alunas, dos projetos que já desenvolvemos em aula.
+
+![Layout da aula 04](https://github.com/lprimante/aula-bootstrap/blob/master/04/img/template.jpg)
+
+Colocamos em prática todos os conceitos aprendidos em aula e colocando o site também responsivo para mobile.
+
 ---
 
 ### Aula 05
+
+Nesta quinta e última aula
 
 ---
 
